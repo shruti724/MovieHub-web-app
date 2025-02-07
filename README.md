@@ -33,7 +33,7 @@ This project is a dynamic web application that integrates movie streaming functi
 2. Navigate to the project directory:
 
    ```bash
-   cd movie-streaming-app
+   cd MovieHub-web-app
    ```
 
 3. Open `index.html` in your preferred web browser to view the application.
