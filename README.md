@@ -27,7 +27,7 @@ This project is a dynamic web application that integrates movie streaming functi
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/shruti724/]MovieHub-web-app.git
+   git clone https://github.com/shruti724/MovieHub-web-app.git
    ```
 
 2. Navigate to the project directory:
